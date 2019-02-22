@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: MY Blog
 SEOTitle: ならば 答えは1つ!あなたに忠誠を誓おう!
 header-img: img/post-bg-desk.jpg
 email: kai_ylwd@163.com
@@ -11,7 +11,7 @@ github_repo: "https://github.com/senmende" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "通りすがりの仮面ライダーだ、覚えておけ！"
 sidebar-avatar: img/avatar_g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
