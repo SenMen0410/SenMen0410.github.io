@@ -101,11 +101,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "SenMen",
-        href: "https://senmen0410.github.io/about/"
+        title: "王俊的主页",
+        href: "www.nigel.ml"
     },{
-        title: "SenMen",
-        href: "https://senmen0410.github.io/about/"
+        title: "鱼的主页",
+        href: "https://www.sometimesnaive.space/"
     },{
         title: "SenMen",
         href: "https://senmen0410.github.io/about/"
