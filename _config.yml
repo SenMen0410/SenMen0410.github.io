@@ -102,15 +102,15 @@ service-worker: true
 friends: [
     {
         title: "SenMen",
-        href: "http://zhengwuyang.com"
+        href: "https://senmen0410.github.io/about/"
     },{
         title: "SenMen",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "https://senmen0410.github.io/about/"
     },{
         title: "SenMen",
-        href: "https://apple.com"
+        href: "https://senmen0410.github.io/about/"
     },{
         title: "SenMen",
-        href: "https://developer.apple.com/"
+        href: "https://senmen0410.github.io/about/"
     }
 ]
